@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart {%}</string>
+    <string name="header_text">Smart Discounts</string>
+</resources>
